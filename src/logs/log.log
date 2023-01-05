@@ -1,0 +1,15 @@
+[ 5.1.2023, 13:20:08 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
+[ 5.1.2023, 13:21:53 ] [ ERROR ] ENOENT: no such file or directory, open 'C:\Users\pr1784\Desktop\Projects\Raspberry Pi\pi4\browser.log'
+[ 5.1.2023, 13:25:32 ] [ ERROR ] ENOENT: no such file or directory, open 'C:\Users\pr1784\Desktop\Projects\Raspberry Pi\pi4\browser.log'
+[ 5.1.2023, 13:26:05 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 13:48:06 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 13:48:29 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 13:49:18 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 14:02:20 ] [ ERROR ] C:\Users\pr1784\Desktop\Projects\Raspberry Pi\pi4\src\Modules\config.json: Unexpected token } in JSON at position 24
+[ 5.1.2023, 14:03:04 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 15:23:43 ] [ ERROR ] Mail command failed: 530 5.7.57 SMTP; Client was not authenticated to send anonymous mail during MAIL FROM
+[ 5.1.2023, 15:24:25 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
+[ 5.1.2023, 15:28:34 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
+[ 5.1.2023, 15:29:56 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
+[ 5.1.2023, 15:32:02 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
+[ 5.1.2023, 15:32:20 ] [ LOG ] Starting Chromium "(https://internaldigitalsignage.fruh.ch/news?id=38:f3:ab:1c:89:f0)"
